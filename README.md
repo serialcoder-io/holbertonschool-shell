@@ -1,2 +1,2 @@
 # holbertonschool-shell
-repo for Holberton shell basics cours
+Repo for Holberton shell basics cours
