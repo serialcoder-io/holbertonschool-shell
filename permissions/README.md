@@ -1,5 +1,5 @@
-#projetct: shell permissions
--My nam is Betty
+# projetct: shell permissions
+--My nam is Betty
 -Who am i
 -Groups
 -New owner
