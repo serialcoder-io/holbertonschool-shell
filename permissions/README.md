@@ -1,17 +1,17 @@
 # projetct: shell permissions
---My nam is Betty
--Who am i
--Groups
--New owner
--Empty!
--Execute
--Multiple Permissions
--Everybody
--James Bonde
--John Doe
--Look in the mirror
--Directories
--More directories
--Change group
--Owner and group
--Symbolic links
+ - My nam is Betty
+- Who am i
+- Groups
+- New owner
+- Empty!
+- Execute
+- Multiple Permissions
+- Everybody
+- James Bonde
+- John Doe
+- Look in the mirror
+- Directories
+- More directories
+- Change group
+- Owner and group
+- Symbolic links
