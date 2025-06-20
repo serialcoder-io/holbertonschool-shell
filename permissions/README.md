@@ -1,5 +1,5 @@
 # projetct: shell permissions
- - My nam is Betty
+- My nam is Betty
 - Who am i
 - Groups
 - New owner
@@ -15,4 +15,4 @@
 - Change group
 - Owner and group
 - Symbolic links
-this is a new line
+- this is a new line
