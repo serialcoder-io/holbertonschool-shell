@@ -1,2 +1,2 @@
 #!/bin/bash
-chown julien:julien hello
+chomd 753 hello
