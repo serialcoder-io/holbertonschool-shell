@@ -1,0 +1,2 @@
+#!/bin/bash
+find hello -user gillaume | xargs chown vicent
